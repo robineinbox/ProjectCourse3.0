@@ -1,0 +1,7 @@
+pip~=23.1.2
+attrs~=22.2.0
+DateTime~=5.1
+utils~=1.0.1
+Jinja2~=3.1.2
+setuptools~=65.5.0
+packaging~=23.1
